@@ -102,7 +102,7 @@
 ### 💻 GeeksforGeeks Stats
 
 <p align="center">
-  <a href="https://www.geeksforgeeks.org/user/misskaur2915/">
+  <a href="https://www.geeksforgeeks.org/batch/gfg-160-problems?tab=Chapters">
   <img src="https://img.shields.io/badge/GeeksforGeeks-💻%20160_Days_Challenge😊-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
